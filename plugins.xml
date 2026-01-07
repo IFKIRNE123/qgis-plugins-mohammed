@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-
-  <plugin
-    name="eventlistener"
-    version="1.0.0"
-    plugin_id="eventlistener">
-
-    <download_url>
-      https://ifkirne123.github.io/qgis-plugins-mohammed/eventlistener.zip
-    </download_url>
-
-    <homepage>
-      https://ifkirne123.github.io/qgis-plugins-mohammed/
-    </homepage>
-
-    <description>
-      Plugin EventListener personnalisé par mohammed.
-    </description>
-
-    <about>
-      Plugin pour écouter les clics, sélections et mouvements de la carte.
-    </about>
-
+  <plugin name="eventlistener" version="1.0.0" plugin_id="eventlistener">
+    <download_url>https://ifkirne123.github.io/qgis-plugins-mohammed/eventlistener.zip</download_url>
+    <homepage>https://ifkirne123.github.io/qgis-plugins-mohammed/</homepage>
+    <description>Plugin EventListener personnalisé par mohammed.</description>
+    <about>Plugin pour écouter les clics, sélections et mouvements de la carte.</about>
     <category>Plugins</category>
-
     <tags>debug,event,listener</tags>
-
-    <author>marie</author>
+    <author>Mohammed</author>
     <email>mohammed@example.com</email>
-
-    <tracker>
-      https://ifkirne123.github.io/qgis-plugins-mohammed/issues
-    </tracker>
-
+    <tracker>https://ifkirne123.github.io/qgis-plugins-mohammed/issues</tracker>
     <qgis_minimum_version>3.22</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
-
-    <icon>icon.png</icon>
-
   </plugin>
-
 </plugins>
