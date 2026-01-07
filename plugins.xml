@@ -2,20 +2,20 @@
 <plugins>
 
   <plugin
-    name="EventListener_marie"
+    name="eventlistener"
     version="1.0.0"
-    plugin_id="eventlistener_marie">
+    plugin_id="eventlistener">
 
     <download_url>
-      https://formationsprofind.github.io/qgis-plugins-marie/EventListener_marie-1.0.0.zip
+      https://ifkirne123.github.io/qgis-plugins-mohammed/eventlistener.zip
     </download_url>
 
     <homepage>
-      https://formationsprofind.github.io/qgis-plugins-marie/
+      https://ifkirne123.github.io/qgis-plugins-mohammed/
     </homepage>
 
     <description>
-      Plugin EventListener personnalisé par marie.
+      Plugin EventListener personnalisé par mohammed.
     </description>
 
     <about>
@@ -27,10 +27,10 @@
     <tags>debug,event,listener</tags>
 
     <author>marie</author>
-    <email>marie@example.com</email>
+    <email>mohammed@example.com</email>
 
     <tracker>
-      https://formationsprofind.github.io/qgis-plugins-marie/issues
+      https://ifkirne123.github.io/qgis-plugins-mohammed/issues
     </tracker>
 
     <qgis_minimum_version>3.22</qgis_minimum_version>
