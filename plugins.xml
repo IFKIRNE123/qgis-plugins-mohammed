@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+
+  <plugin
+    name="EventListener_marie"
+    version="1.0.0"
+    plugin_id="eventlistener_marie">
+
+    <download_url>
+      https://formationsprofind.github.io/qgis-plugins-marie/EventListener_marie-1.0.0.zip
+    </download_url>
+
+    <homepage>
+      https://formationsprofind.github.io/qgis-plugins-marie/
+    </homepage>
+
+    <description>
+      Plugin EventListener personnalisé par marie.
+    </description>
+
+    <about>
+      Plugin pour écouter les clics, sélections et mouvements de la carte.
+    </about>
+
+    <category>Plugins</category>
+
+    <tags>debug,event,listener</tags>
+
+    <author>marie</author>
+    <email>marie@example.com</email>
+
+    <tracker>
+      https://formationsprofind.github.io/qgis-plugins-marie/issues
+    </tracker>
+
+    <qgis_minimum_version>3.22</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+
+    <icon>icon.png</icon>
+
+  </plugin>
+
+</plugins>
